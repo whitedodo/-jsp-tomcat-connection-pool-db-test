@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Bold.eot);
+  src: url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Bold.eot?#iefix) format('embedded-opentype'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Bold.woff2) format('woff2'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Bold.woff) format('woff'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Regular.eot);
+  src: url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Regular.eot?#iefix) format('embedded-opentype'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Regular.woff2) format('woff2'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Regular.woff) format('woff'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: url(/JSP-Operation-Pool/earlyaccess/NanumGothic-ExtraBold.eot);
+  src: url(/JSP-Operation-Pool/earlyaccess/NanumGothic-ExtraBold.eot?#iefix) format('embedded-opentype'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-ExtraBold.woff2) format('woff2'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-ExtraBold.woff) format('woff'),
+       url(/JSP-Operation-Pool/earlyaccess/NanumGothic-ExtraBold.ttf) format('truetype');
+}
